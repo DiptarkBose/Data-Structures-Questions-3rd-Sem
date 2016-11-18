@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1471093155 source:c:\users\mahe\desktop\lab2addq1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1471096138 source:c:\users\mahe\desktop\lab2addq1\quad.c
+	<stdio.h>
+	<math.h>
+
